@@ -1,0 +1,3 @@
+import os
+File_name = 'my_file.txt'
+Print (os.path.splitext(file_name))
